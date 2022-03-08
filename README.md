@@ -1,7 +1,9 @@
-- 👋 Hi, I’m Nico
-- 👀 I’m interested in Data Analytics, Data Science and generally solving problems
+Glad you found your way to my GitHub Page !
+I’m Nico, 27 years old, working and living in Munich, Germany
+
+- 👀 I’m interested in Data Analytics, Data Science and generally solving problems.
+- 💞️ I’m looking to collaborate on any interessting Data Analytics projects to get some hands on practice.
 - 🌱 I’m currently learning Tablue and Python
-- 💞️ I’m looking to collaborate on any interessting Data Analytics projects to get some hands on practice
 - 📫 How to reach me: w-nico@web.de / +49 1721740376
 
 <!---
