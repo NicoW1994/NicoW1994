@@ -1,4 +1,4 @@
-Welcome to my GitHub Page !
+Welcome to my GitHub Page !/
 I’m Nico, 27 years old, working and living in Munich, Germany
 
 - 👀 I’m interested in Data Analytics, Data Science and generally solving problems.
