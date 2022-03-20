@@ -2,7 +2,8 @@ Welcome to my GitHub Page !
 
 I’m Nico, 27 years old, working and living in Munich, Germany.
 I'm an environmental engineer specialized on water topics with experience in data processing,
-project management and hydrodynamic modeling. If there is a problem with your data, I can definitely fix it.
+project management and hydrodynamic modeling. 
+If there is a problem with your data, I can definitely fix it.
 
 - I'm experienced in R, Web Applications, SQL and Python
 - I know how to handle large data and databases
