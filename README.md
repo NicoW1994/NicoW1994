@@ -13,6 +13,7 @@ If there is a problem with your data, I can definitely fix it !
  📫 How to reach me: w-nico@web.de / +49 1721740376
  
 Have a look at my Portfolio Website for some interesseting projects:
+
 https://nicow1994.github.io/NicoWagner.github.io/
 
 <!---
